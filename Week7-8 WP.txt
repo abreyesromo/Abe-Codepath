@@ -1,7 +1,8 @@
 XSS Vulnerbility on comments for Worpress 4.6.1
   WP Version 4.2
   First create a Page 
-  
+<img src="Week7-8-images/1.1-Input%20Request.png">
+![github-small](https://github.com/abreyesromo/Abe-Codepath/blob/master/Week7-8-images/1.1-Input%20Request.png)
   Second Find XSS that worked.
   <script>alert("hellox worldss");</script> 
   Third Input XSS
