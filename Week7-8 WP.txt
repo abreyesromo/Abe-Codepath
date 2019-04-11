@@ -1,0 +1,8 @@
+XSS Vulnerbility on comments for Worpress 4.6.1
+  WP Version 4.2
+  First create a Page 
+  
+  Second Find XSS that worked.
+  <script>alert("hellox worldss");</script> 
+  Third Input XSS
+  
